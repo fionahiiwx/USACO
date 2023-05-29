@@ -1,6 +1,8 @@
 # USACO
 my submissions for USACO
 
+---
+
 ## Feb 2023
 
 Rank: 200/2187
@@ -17,6 +19,8 @@ Problem 3: Watching Mooloo
 
 testing complete: 1,2,X,X,X,X,X,X,X,X,X,X
 
+---
+
 ## Jan 2023
 
 Rank: 604/2834
@@ -32,6 +36,8 @@ testing complete: don't remember
 Problem 3: Moo Operations
 
 testing complete: don't remember
+
+---
 
 ## Dec 2022
 
